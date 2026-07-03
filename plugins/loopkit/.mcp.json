@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "loopops": {
+      "type": "http",
+      "url": "https://mcp.loopops.dev"
+    }
+  }
+}
