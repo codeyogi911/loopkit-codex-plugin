@@ -1,0 +1,15 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "loopkit",
+  "owner": {
+    "name": "LoopOps",
+    "url": "https://loopops.dev"
+  },
+  "plugins": [
+    {
+      "name": "loopkit",
+      "source": "./plugins/loopkit",
+      "description": "Run the LoopOps improvement loop from Claude Code: the hosted MCP surface plus the loop-procedure skill"
+    }
+  ]
+}

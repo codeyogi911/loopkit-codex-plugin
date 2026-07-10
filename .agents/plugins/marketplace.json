@@ -1,7 +1,7 @@
 {
   "name": "loopkit",
   "interface": {
-    "displayName": "LoopKit"
+    "displayName": "LoopOps"
   },
   "plugins": [
     {

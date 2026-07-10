@@ -1,0 +1,9 @@
+{
+  "name": "loopkit",
+  "description": "Use LoopOps' hosted MCP read surface and harness-first improvement-loop workflow from Claude Code.",
+  "version": "0.1.0",
+  "author": {
+    "name": "LoopOps"
+  },
+  "homepage": "https://loopops.dev"
+}

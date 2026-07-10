@@ -1,14 +1,15 @@
 {
   "name": "loopkit",
   "version": "0.1.0",
-  "description": "Use LoopKit's hosted MCP read surface and harness-first workflow from Codex.",
+  "description": "Use LoopOps' hosted MCP read surface and harness-first workflow from Codex.",
   "author": {
-    "name": "LoopKit"
+    "name": "LoopOps"
   },
   "homepage": "https://loopops.dev",
   "repository": "https://github.com/codeyogi911/loopkit-codex-plugin",
   "license": "MIT",
   "keywords": [
+    "loopops",
     "loopkit",
     "telemetry",
     "mcp",
@@ -18,10 +19,10 @@
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
   "interface": {
-    "displayName": "LoopKit",
+    "displayName": "LoopOps",
     "shortDescription": "Diagnose bounded telemetry and close improvement loops",
-    "longDescription": "LoopKit gives Codex an agent-first telemetry read surface: discover projects, diagnose bounded evidence windows, inspect sessions, record loop lifecycle events, and verify whether the next window improved while keeping external writes approval-gated.",
-    "developerName": "LoopKit",
+    "longDescription": "LoopOps gives Codex an agent-first telemetry read surface: discover projects, diagnose bounded evidence windows, inspect sessions, record loop lifecycle events, and verify whether the next window improved while keeping external writes approval-gated.",
+    "developerName": "LoopOps",
     "category": "Developer Tools",
     "capabilities": [
       "Interactive",
@@ -31,7 +32,7 @@
     "websiteURL": "https://loopops.dev",
     "brandColor": "#2563EB",
     "defaultPrompt": [
-      "Use LoopKit to diagnose the latest telemetry window.",
+      "Use LoopOps to diagnose the latest telemetry window.",
       "Find recurring product pain and draft a patch plan.",
       "Verify whether this loop improved after shipping."
     ],
